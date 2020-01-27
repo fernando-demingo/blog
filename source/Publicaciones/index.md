@@ -1,10 +1,10 @@
 ---
-title: Publicaciones
+title: List of Publications
 date: 2020-01-25 23:41:55
-tags: artículos
+tags: papers
 ---
 
-# Publicaciones JCR
+# Journals wih JCR Impact Factor
 
 
 > *Multilinear Weighted Regression (MWE) with Neural Networks for trend prediction.* **Alberto Arteta Albert, Luis Fernando de Mingo López, Nuria Gómez Blas.** Applied Soft Computing, Volume 82, September 2019, 105555. (2019).
