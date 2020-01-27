@@ -6,6 +6,8 @@ tags: papers
 
 # Journals wih JCR Impact Factor
 
+> *Ant colony systems optimization applied to BNF grammars rule derivation (ACORD algorithm).* **Luis Fernando de Mingo López, Nuria Gómez Blas, Clemencio Morales Lucas.** Soft Computing. (2020).
+https://doi.org/10.1007/s00500-020-04670-9
 
 > *Multilinear Weighted Regression (MWE) with Neural Networks for trend prediction.* **Alberto Arteta Albert, Luis Fernando de Mingo López, Nuria Gómez Blas.** Applied Soft Computing, Volume 82, September 2019, 105555. (2019).
  https://doi.org/10.1016/j.asoc.2019.105555
