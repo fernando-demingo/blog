@@ -424,7 +424,7 @@ font:
   global:
     external: true
     family: Montserrat
-    size:
+    size: 1.0
 
   # Font settings for site title (.site-title).
   title:
