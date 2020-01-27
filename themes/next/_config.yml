@@ -122,13 +122,13 @@ scheme: Gemini
 menu:
   home: / || home
   #about: /about/ || user
-  #tags: /tags/ || tags
+  tags: /tags/ || tags
   #categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
-  Publicaciones: /Publicaciones/ || archive
+  Publications: /Publicaciones/ || archive
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
