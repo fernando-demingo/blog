@@ -2,7 +2,10 @@
 title: List of Publications
 date: 2020-01-25 23:41:55
 tags: papers
+bibliography: ./aarteta.bib
 ---
+
+[@nuevaref5]
 
 # Journals wih JCR Impact Factor
 
