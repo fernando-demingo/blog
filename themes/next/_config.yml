@@ -128,7 +128,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
-  publicaciones: /Publicaciones/ || archive
+  Publicaciones: /Publicaciones/ || archive
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
