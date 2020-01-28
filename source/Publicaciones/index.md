@@ -2,12 +2,10 @@
 title: List of Publications
 date: 2020-01-25 23:41:55
 tags: papers
-bibliography: ./aarteta.bib
 ---
 
-[@nuevaref5]
 
-# Journals wih JCR Impact Factor
+# JCR Impact Factor
 
 > *Ant colony systems optimization applied to BNF grammars rule derivation (ACORD algorithm).* **Luis Fernando de Mingo López, Nuria Gómez Blas, Clemencio Morales Lucas.** Soft Computing. (2020).
 https://doi.org/10.1007/s00500-020-04670-9
