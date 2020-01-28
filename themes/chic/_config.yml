@@ -6,13 +6,14 @@ nav:
   Posts: /archives
   Categories: /category
   Tags: /tag
+  Publications: /Publicaciones
   About: /about
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Luis Fernando de Mingo López
 
 ### this variable is MarkDown form.
 description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
