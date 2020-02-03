@@ -7,6 +7,9 @@ tags: papers
 
 # JCR Impact Factor
 
+> *Swarm Intelligence Models: Ant Colony Systems Applied to BNF Grammars Rule Derivation.* **LLuis Fernando de Mingo López, Nuria Gómez Blas, Angel Luis Castellanos Peñuela, Juan Bautista Castellanos Peñuela.** International Journal of Foundations of Computer ScienceVol. 31, No. 01, pp. 103-116. (2020)
+https://doi.org/10.1142/S0129054120400079
+
 > *Ant colony systems optimization applied to BNF grammars rule derivation (ACORD algorithm).* **Luis Fernando de Mingo López, Nuria Gómez Blas, Clemencio Morales Lucas.** Soft Computing. (2020).
 https://doi.org/10.1007/s00500-020-04670-9
 
@@ -28,8 +31,7 @@ http://www.cai.sk/ojs/index.php/cai/article/view/3412/717
 > *The optimal combination: Grammatical swarm, particle swarm optimization and neural networks.* **Luis Fernando de Mingo López, Nuria Gómez Blas, Alberto Arteta.** Journal of Computational Science, Volume 3, Issues 1–2, 46-55. (2012).
 https://doi.org/10.1016/j.jocs.2011.12.005
 
-> *Solving complex problems with a bioinspired model.* **Alberto Arteta, Nuria Gomez, Luis Fernando Mingo.** Engineering Applications of Artificial Intelligence,
-Volume 24, Issue 6, 919-927. (2011).
+> *Solving complex problems with a bioinspired model.* **Alberto Arteta, Nuria Gomez, Luis Fernando Mingo.** Engineering Applications of Artificial Intelligence, Volume 24, Issue 6, 919-927. (2011).
 https://doi.org/10.1016/j.engappai.2011.03.007
 
 > *Extended Networks of Evolutionary Processors: ENEPs.* **Luis Fernando de Mingo López, Nuria Gómez Blas, Juan Castellanos.** Romanian Journal of Information Science and Technology 12(2), 235-247. (2009).
