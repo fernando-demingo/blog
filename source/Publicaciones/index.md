@@ -7,7 +7,7 @@ tags: papers
 
 # JCR Impact Factor
 
-> *Swarm Intelligence Models: Ant Colony Systems Applied to BNF Grammars Rule Derivation.* **LLuis Fernando de Mingo López, Nuria Gómez Blas, Angel Luis Castellanos Peñuela, Juan Bautista Castellanos Peñuela.** International Journal of Foundations of Computer ScienceVol. 31, No. 01, pp. 103-116. (2020)
+> *Swarm Intelligence Models: Ant Colony Systems Applied to BNF Grammars Rule Derivation.* **LLuis Fernando de Mingo López, Nuria Gómez Blas, Angel Luis Castellanos Peñuela, Juan Bautista Castellanos Peñuela.** International Journal of Foundations of Computer Science. Vol. 31, No. 01, pp. 103-116. (2020)
 https://doi.org/10.1142/S0129054120400079
 
 > *Ant colony systems optimization applied to BNF grammars rule derivation (ACORD algorithm).* **Luis Fernando de Mingo López, Nuria Gómez Blas, Clemencio Morales Lucas.** Soft Computing. (2020).
