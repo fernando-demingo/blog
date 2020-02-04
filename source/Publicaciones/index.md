@@ -7,6 +7,9 @@ tags: papers
 
 # JCR Impact Factor
 
+> *Tele-treatment Application design for disable patients with wireless sensors.* **Alberto Arteta Albert, Luis Fernando de Mingo López, Nuria Gómez Blas.** Applied Sciences. (2020)
+https://doi.org/
+
 > *Swarm Intelligence Models: Ant Colony Systems Applied to BNF Grammars Rule Derivation.* **LLuis Fernando de Mingo López, Nuria Gómez Blas, Angel Luis Castellanos Peñuela, Juan Bautista Castellanos Peñuela.** International Journal of Foundations of Computer Science. Vol. 31, No. 01, pp. 103-116. (2020)
 https://doi.org/10.1142/S0129054120400079
 
