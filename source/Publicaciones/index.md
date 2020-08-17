@@ -7,7 +7,10 @@ tags: papers
 
 # JCR Impact Factor
 
-> *Image Classification with Convolutional Neural Networks using Gulf of Maine Humpback Whale Catalog.* **Luis Fernando de Mingo López, Nuria Gómez Blas, Alberto Arteta Albert, Javier Martínez Llamas.** Electronics 2020, 9 (5), 731. ISSN: 2079-9292. Pp.: 1-23. (2020).
+> *Intelligent indexing: Boosting perfor- mance in database applications by recognizing index patterns.* **Alberto Arteta Albert, Nuria Gómez Blas, Luis Fernando de Mingo López.**  Electronics 2020, X (X), XXX. ISSN: 2079-9292. Pp.: 1-16. (2020).
+https://doi.org/10.3390/electronics9050731XXXXXX
+
+> *Image Classification with Convolutional Neural Networks using Gulf of Maine Humpback Whale Catalog.* **Luis Fernando de Mingo López, Nuria Gómez Blas, Alberto Arteta Albert, Javier Martínez Llamas.** Electronics 2020, 9(5), 731. ISSN: 2079-9292. Pp.: 1-23. (2020).
 https://doi.org/10.3390/electronics9050731
 
 > *Tele-treatment Application design for disable patients with wireless sensors.* **Alberto Arteta Albert, Luis Fernando de Mingo López, Nuria Gómez Blas.** Applied Sciences 10(3), 1142. (2020)
