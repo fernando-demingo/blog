@@ -7,7 +7,10 @@ tags: papers
 
 # JCR Impact Factor
 
-> nuevas
+> *An In Vivo Proposal of Cell Computing Inspired by Membrane Computing.* **Alberto Arteta Albert, Ernesto Díaz-Flores, Luis Fernando de Mingo López, Nuria Gómez Blas.**  Processes 2021, 9(3), 511. ISSN: 2227-9717. Pp.: 1-17. (2021).
+https://doi.org/10.3390/pr9030511
+
+
 
 > *Intelligent indexing: Boosting performance in database applications by recognizing index patterns.* **Alberto Arteta Albert, Nuria Gómez Blas, Luis Fernando de Mingo López.**  Electronics 2020, 9 (9), 1348. ISSN: 2079-9292. Pp.: 1-14. (2020).
 https://doi.org/10.3390/electronics9091348
