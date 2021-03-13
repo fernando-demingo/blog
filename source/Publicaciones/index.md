@@ -7,6 +7,8 @@ tags: papers
 
 # JCR Impact Factor
 
+> nuevas
+
 > *Intelligent indexing: Boosting performance in database applications by recognizing index patterns.* **Alberto Arteta Albert, Nuria Gómez Blas, Luis Fernando de Mingo López.**  Electronics 2020, 9 (9), 1348. ISSN: 2079-9292. Pp.: 1-14. (2020).
 https://doi.org/10.3390/electronics9091348
 
